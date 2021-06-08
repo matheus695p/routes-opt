@@ -143,6 +143,8 @@ Ver distribución del error:
 
 ### optimización de orden de reparto
 
+Ver las distintas generaciones por las que pasa el algoritmo genetico hasta encontrar el itinerario óptimo
+
 ```zh
 Generation 5: 330
 Current Best Score:  99.84437370300293
