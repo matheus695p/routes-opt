@@ -219,8 +219,8 @@ build/html/index.html
 # Instalar las librerías necesarias para trabajar:
 
 ```sh
-$ git clone https://github.com/matheus695p/routes-optimization.git
-$ cd routes-optimization
+$ git clone https://github.com/matheus695p/routes-opt.git
+$ cd routes-opt
 $ pip install -r requirements.txt
 ```
 # Agradecimientos y colaboraciones
