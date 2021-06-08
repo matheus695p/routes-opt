@@ -225,7 +225,7 @@ $ pip install -r requirements.txt
 ```
 # Agradecimientos y colaboraciones
 
-Agradecimientos a @PamelaMunozCaceres que me ayudo con el algoritmo dijkstra
+Agradecimientos a @PamelaMunozCaceres que me enseño el algoritmo dijkstra
 
 # Bibliografía
 * https://github.com/ZWMiller/PythonProjects/blob/master/genetic_algorithms/evolutionary_algorithm_traveling_salesman.ipynb
