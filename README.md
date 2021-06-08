@@ -6,6 +6,7 @@ Esta en desarrollo, este repo, quedan partes por implementar ...
 
 Dado que el algoritmo genetico, se demora mucho en poder enconrtar la conexión de rutas correcta, es mejor pensar este desarrollo como si fuese ser instalado en un servidor, por lo tanto, el código es pensado de esta manera.
 
+
 ## Introducción
 
 La idea de este repositorio, es poder resolver problemas de optimización de rutas en vehiculos pertenecientes a la cadena de supply, es decir dado un conjunto de puntos por los cuales es necesario pasar, cual es la ruta óptima con tal de minimizar el tiempo en ruta de la flota, optimizar las planificaciones ¿que equipo debe suplir que demanda en particular?, ¿como lo hace recorriendo la menor distancia posible?.
@@ -222,6 +223,9 @@ $ git clone https://github.com/matheus695p/routes-optimization.git
 $ cd routes-optimization
 $ pip install -r requirements.txt
 ```
+# Agradecimientos y colaboraciones
+
+Agradecimientos a @PamelaMunozCaceres que me ayudo con el algoritmo dijkstra
 
 # Bibliografía
 * https://github.com/ZWMiller/PythonProjects/blob/master/genetic_algorithms/evolutionary_algorithm_traveling_salesman.ipynb
